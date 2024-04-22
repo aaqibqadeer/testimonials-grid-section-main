@@ -5,8 +5,3 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 ### Screenshot
 
 ![](./design/desktop-design.jpg.jpg)
-
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
