@@ -17,7 +17,7 @@ body {
 .article-1 {
   background-color: var(--moderate-violet);
   color: white;
-  background-image: url('/images/bg-pattern-quotation.svg');
+  background-image: url('images/bg-pattern-quotation.svg');
   background-repeat: no-repeat;
   background-position: 80% top;
 }
